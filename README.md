@@ -1,4 +1,4 @@
-# Ethereum Name Record (ENR) library for Python
+# Vapory Name Record (VNR) library for Python
 
 [![Join the chat at https://gitter.im/ethereum/eth-enr](https://badges.gitter.im/ethereum/eth-enr.svg)](https://gitter.im/ethereum/eth-enr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/eth-enr.svg?style=shield)](https://circleci.com/gh/ethereum/eth-enr)
